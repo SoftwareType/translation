@@ -13,7 +13,7 @@ setup:
   INSTALLED_OLD: "Uma versão mais antiga do $(^NameDA) está instalado no seu sistema. Selecione a operação que deseja realizar."
   INSTALLED_NEW: "Uma versão mais recente do $(^NameDA) já está instalado! Não é recomendado instalar uma versão mais antiga. Se você realmente deseja instalar esta versão mais antiga, desinstale a versão atual primeiro. Selecione a operação que deseja realizar."
   REINSTALL: "&Reinstalar"
-  UPDATE: "Atua&lizar"
+  UPDATE: "&Atualizar"
   UNINSTALL: "&Desinstalar"
   UNINSTALL_CURRENT: "&Desinstalar a versão atual"
   NO_UNINSTALL: "&Não desinstalar"
